@@ -12,3 +12,5 @@ just tipe
 example:
 
 /player Frankity
+
+output:  Frankity - Rank: 13 Score: 194472 Kills: 792 Deaths: 935
